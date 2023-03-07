@@ -68,12 +68,24 @@ Front-end React Developer in a team with more experienced Front-end developers.
 - Syberry academy - front end [[1]](https://drive.google.com/file/d/1jUld5HtoZ3KcmstV3pnRIRFqkfMqZ9Us/view?usp=sharing);
 - Belarusian State University of Informatics and Radioelectronics, Faculty of Information Technologies and Control, Minsk, 2021, Bachelor / System engineer;
 
-## Code:
-<details>
-<summary>Spoiler.</summary>
-<pre>
+## Code example:
 
 ```js
+// Task:
+
+// The marketing team is spending way too much time typing in hashtags.
+// Let's help them with our own Hashtag Generator!
+
+// Here's the deal:
+// It must start with a hashtag (#).
+// All words must have their first letter capitalized.
+// If the final result is longer than 140 chars it must return false.
+// If the input or the result is an empty string it must return false.
+// Examples
+// " Hello there thanks for trying my Kata"  =>  "#HelloThereThanksForTryingMyKata"
+// "    Hello     World   "                  =>  "#HelloWorld"
+// ""                                        =>  false
+
 function generateHashtag(str) {
   str = str.split(" ").filter((f) => {
     return f !== "";
@@ -91,9 +103,6 @@ function generateHashtag(str) {
 console.log(generateHashtag("Do We have A Hashtag"));
 console.log(generateHashtag("code" + " ".repeat(140) + "wars"));
 ```
-</pre>
-</details>
-<br />
 
 ## Languages: 
 - Russian - native speaker
@@ -116,4 +125,5 @@ Itransition. [[1(rus)]](https://docs.google.com/document/d/1VcZT7wuMuwht_W_yDXAV
 
 ## Additional links: 
 Telegram - https://t.me/z63yuuB4r1DS <br />
+LinkedIn - https://www.linkedin.com/in/txlyzov/ <br />
 GitHub - https://github.com/txlyzov
