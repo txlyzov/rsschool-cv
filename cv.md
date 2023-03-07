@@ -124,6 +124,6 @@ Itransition. [[1(rus)]](https://docs.google.com/document/d/1VcZT7wuMuwht_W_yDXAV
 
 
 ## Additional links: 
-Telegram - https://t.me/z63yuuB4r1DS <br />
-LinkedIn - https://www.linkedin.com/in/txlyzov/ <br />
-GitHub - https://github.com/txlyzov
+Telegram - [https://t.me/z63yuuB4r1DS](https://t.me/z63yuuB4r1DS) <br />
+LinkedIn - [https://www.linkedin.com/in/txlyzov/](https://www.linkedin.com/in/txlyzov/) <br />
+GitHub - [https://github.com/txlyzov](https://github.com/txlyzov)
